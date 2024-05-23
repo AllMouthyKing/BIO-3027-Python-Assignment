@@ -13,3 +13,5 @@ Completion occurs when the results (3 text files & 2 png files are opened for vi
 The text files contain gene summary information while the two pngs are heatmap images of the genes. 
 
 It is advised to let the program go to completion. 
+
+Created on Spyder ver 5.4.3
