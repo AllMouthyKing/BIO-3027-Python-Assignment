@@ -99,6 +99,10 @@ combo_box = ttk.Combobox(root, textvariable=selected_item, values=items)
 combo_box.pack(pady=10)
 # Merge the StringVar to the dropdown combobox whose values are the item list and within the root window
 
+##########################
+# Main Analysis Function #
+##########################
+
 def run_analysis():    
     try:
         data_mrna_annot, data_vst_matrix = path_file(selected_item.get())
