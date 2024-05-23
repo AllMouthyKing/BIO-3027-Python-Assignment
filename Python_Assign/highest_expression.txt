@@ -1,0 +1,200 @@
+Name: Myh4
+Description: myosin, heavy polypeptide 4, skeletal muscle
+Status: 0
+CurrentID: 0
+Chromosome: 11
+GeneticSource: genomic
+MapLocation: 11 40.59 cM
+OtherAliases: MHC2B, MM, MYH-2B, Minimsc, Minmus, MyHC-IIb, Myhsf
+OtherDesignations: myosin-4|myHC-2b|myosin heavy chain 2b|myosin heavy chain 4
+NomenclatureSymbol: Myh4
+NomenclatureName: myosin, heavy polypeptide 4, skeletal muscle
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '11', 'ChrAccVer': 'NC_000077.7', 'ChrStart': '67128637', 'ChrStop': '67151272', 'ExonCount': '40'}]
+GeneWeight: 4688
+Summary: Predicted to enable double-stranded RNA binding activity. Acts upstream of or within response to activity. Predicted to be located in myofibril. Predicted to be part of myosin complex. Is expressed in several structures, including brown fat; diaphragm; heart; limb segment; and skeletal musculature. Orthologous to human MYH4 (myosin heavy chain 4). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 11
+ChrStart: 67128637
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: AI573378
+Description: expressed sequence AI573378
+Status: 1
+CurrentID: 18969
+Chromosome: 19
+GeneticSource: genomic
+MapLocation: 
+OtherAliases: 
+OtherDesignations: 
+NomenclatureSymbol: AI573378
+NomenclatureName: expressed sequence AI573378
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: []
+GeneWeight: 0
+Summary: 
+ChrSort: ~~last
+ChrStart: 999999999
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: COX1
+Description: cytochrome c oxidase subunit I
+Status: 0
+CurrentID: 0
+Chromosome: MT
+GeneticSource: mitochondrion
+MapLocation: 
+OtherAliases: CoxI
+OtherDesignations: 
+NomenclatureSymbol: mt-Co1
+NomenclatureName: cytochrome c oxidase I, mitochondrial
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': 'MT', 'ChrAccVer': 'NC_005089.1', 'ChrStart': '5327', 'ChrStop': '6871', 'ExonCount': '0'}]
+GeneWeight: 1481
+Summary: Enables cytochrome-c oxidase activity. Predicted to be involved in electron transport coupled proton transport; mitochondrial electron transport, cytochrome c to oxygen; and response to oxidative stress. Located in mitochondrial inner membrane. Part of mitochondrial respiratory chain complex IV. Is expressed in several structures, including brown fat; heart; liver; metanephros; and skeletal muscle. Orthologous to human MT-CO1 (mitochondrially encoded cytochrome c oxidase I). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: ~MT
+ChrStart: 5327
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Atp2a1
+Description: ATPase, Ca++ transporting, cardiac muscle, fast twitch 1
+Status: 0
+CurrentID: 0
+Chromosome: 7
+GeneticSource: genomic
+MapLocation: 7 69.04 cM
+OtherAliases: SERCA1
+OtherDesignations: sarcoplasmic/endoplasmic reticulum calcium ATPase 1|SR Ca(2+)-ATPase 1|calcium pump 1|endoplasmic reticulum class 1/2 Ca(2+) ATPase
+NomenclatureSymbol: Atp2a1
+NomenclatureName: ATPase, Ca++ transporting, cardiac muscle, fast twitch 1
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '7', 'ChrAccVer': 'NC_000073.7', 'ChrStart': '126062244', 'ChrStop': '126045031', 'ExonCount': '23'}]
+GeneWeight: 3817
+Summary: Enables calcium ion binding activity. Predicted to be involved in several processes, including calcium ion transport; cellular calcium ion homeostasis; and regulation of striated muscle contraction. Predicted to act upstream of or within calcium ion transport. Located in sarcoplasmic reticulum membrane. Is expressed in several structures, including diaphragm; forelimb mesenchyme; hindlimb; musculature; and testis. Human ortholog(s) of this gene implicated in Brody myopathy. Orthologous to human ATP2A1 (ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 07
+ChrStart: 126045031
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Ttn
+Description: titin
+Status: 0
+CurrentID: 0
+Chromosome: 2
+GeneticSource: genomic
+MapLocation: 2 45.13 cM
+OtherAliases: 1100001C23Rik, 2310036G12Rik, 2310057K23Rik, 2310074I15Rik, D330041I19Rik, D830007G01Rik, L56, mdm, shru
+OtherDesignations: titin|connectin
+NomenclatureSymbol: Ttn
+NomenclatureName: titin
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '2', 'ChrAccVer': 'NC_000068.8', 'ChrStart': '76812900', 'ChrStop': '76534323', 'ExonCount': '350'}]
+GeneWeight: 13028
+Summary: Enables ankyrin binding activity. Involved in regulation of relaxation of cardiac muscle. Acts upstream of or within several processes, including chordate embryonic development; forward locomotion; and heart development. Located in M band and Z disc. Is expressed in several structures, including diaphragm; embryo mesenchyme; heart; musculature; and tarsus. Used to study autosomal recessive limb-girdle muscular dystrophy type 2J; dilated cardiomyopathy 1G; and tibial muscular dystrophy. Human ortholog(s) of this gene implicated in intrinsic cardiomyopathy (multiple) and myopathy (multiple). Orthologous to human TTN (titin). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 02
+ChrStart: 76534323
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Acta1
+Description: actin alpha 1, skeletal muscle
+Status: 0
+CurrentID: 0
+Chromosome: 8
+GeneticSource: genomic
+MapLocation: 8 72.26 cM
+OtherAliases: Acta-2, Acts, Actsk-1
+OtherDesignations: actin, alpha skeletal muscle|alpha-actin-1
+NomenclatureSymbol: Acta1
+NomenclatureName: actin alpha 1, skeletal muscle
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '8', 'ChrAccVer': 'NC_000074.7', 'ChrStart': '124621513', 'ChrStop': '124618496', 'ExonCount': '8'}]
+GeneWeight: 10169
+Summary: Predicted to enable ATP binding activity. Involved in skeletal muscle fiber development. Predicted to be located in actin cytoskeleton and sarcomere. Predicted to be part of dynactin complex. Predicted to be active in actin filament; stress fiber; and striated muscle thin filament. Is expressed in several structures, including alimentary system; brain; genitourinary system; heart; and limb. Used to study nemaline myopathy 3. Human ortholog(s) of this gene implicated in congenital fiber-type disproportion and nemaline myopathy 3. Orthologous to human ACTA1 (actin alpha 1, skeletal muscle). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 08
+ChrStart: 124618496
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: CYTB
+Description: cytochrome b
+Status: 0
+CurrentID: 0
+Chromosome: MT
+GeneticSource: mitochondrion
+MapLocation: 
+OtherAliases: 
+OtherDesignations: 
+NomenclatureSymbol: mt-Cytb
+NomenclatureName: cytochrome b, mitochondrial
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': 'MT', 'ChrAccVer': 'NC_005089.1', 'ChrStart': '14144', 'ChrStop': '15287', 'ExonCount': '0'}]
+GeneWeight: 798
+Summary: Predicted to enable metal ion binding activity and ubiquinol-cytochrome-c reductase activity. Predicted to be involved in several processes, including electron transport coupled proton transport; mitochondrial electron transport, ubiquinol to cytochrome c; and response to glucagon. Located in membrane and mitochondrion. Is integral component of mitochondrial inner membrane. Human ortholog(s) of this gene implicated in ovarian carcinoma and urinary bladder cancer. Orthologous to human MT-CYB (mitochondrially encoded cytochrome b). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: ~MT
+ChrStart: 14144
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Ckm
+Description: creatine kinase, muscle
+Status: 0
+CurrentID: 0
+Chromosome: 7
+GeneticSource: genomic
+MapLocation: 7 9.67 cM
+OtherAliases: CPK-M, Ckmm, M-CK, MCK
+OtherDesignations: creatine kinase M-type|creatine kinase M chain|creatine phosphokinase M-type
+NomenclatureSymbol: Ckm
+NomenclatureName: creatine kinase, muscle
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '7', 'ChrAccVer': 'NC_000073.7', 'ChrStart': '19145018', 'ChrStop': '19155507', 'ExonCount': '8'}]
+GeneWeight: 7549
+Summary: Enables creatine kinase activity. Acts upstream of or within phosphocreatine biosynthetic process. Located in extracellular space. Is expressed in several structures, including alimentary system; central nervous system; heart; musculature; and sensory organ. Orthologous to human CKM (creatine kinase, M-type). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 07
+ChrStart: 19145018
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Aldoa
+Description: aldolase A, fructose-bisphosphate
+Status: 0
+CurrentID: 0
+Chromosome: 7
+GeneticSource: genomic
+MapLocation: 7 69.25 cM
+OtherAliases: Aldo-1, Aldo1
+OtherDesignations: fructose-bisphosphate aldolase A|muscle-type aldolase
+NomenclatureSymbol: Aldoa
+NomenclatureName: aldolase A, fructose-bisphosphate
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '7', 'ChrAccVer': 'NC_000073.7', 'ChrStart': '126399536', 'ChrStop': '126394405', 'ExonCount': '12'}]
+GeneWeight: 2914
+Summary: Enables fructose-bisphosphate aldolase activity and protease binding activity. Involved in positive regulation of cell migration. Located in Z disc; plasma membrane; and sperm fibrous sheath. Part of protein-containing complex. Is expressed in several structures, including alimentary system; cardiovascular system; genitourinary system; nervous system; and sensory organ. Orthologous to human ALDOA (aldolase, fructose-bisphosphate A). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 07
+ChrStart: 126394405
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: ND4
+Description: NADH dehydrogenase subunit 4
+Status: 0
+CurrentID: 0
+Chromosome: MT
+GeneticSource: mitochondrion
+MapLocation: 
+OtherAliases: 
+OtherDesignations: 
+NomenclatureSymbol: mt-Nd4
+NomenclatureName: NADH dehydrogenase 4, mitochondrial
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': 'MT', 'ChrAccVer': 'NC_005089.1', 'ChrStart': '10166', 'ChrStop': '11543', 'ExonCount': '0'}]
+GeneWeight: 657
+Summary: Predicted to enable NADH dehydrogenase (ubiquinone) activity and ubiquinone binding activity. Predicted to contribute to NADH dehydrogenase activity. Predicted to be involved in several processes, including electron transport coupled proton transport; mitochondrial electron transport, NADH to ubiquinone; and mitochondrial respiratory chain complex I assembly. Located in mitochondrion. Human ortholog(s) of this gene implicated in Leber hereditary optic neuropathy; Parkinson's disease; macular degeneration; and schizophrenia. Orthologous to human MT-ND4 (mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: ~MT
+ChrStart: 10166
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+

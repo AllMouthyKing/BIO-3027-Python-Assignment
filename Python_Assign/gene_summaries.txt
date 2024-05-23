@@ -1,0 +1,200 @@
+Name: Arhgef40
+Description: Rho guanine nucleotide exchange factor 40
+Status: 0
+CurrentID: 0
+Chromosome: 14
+GeneticSource: genomic
+MapLocation: 14 26.75 cM
+OtherAliases: E130112L23Rik, Gm669, Solo
+OtherDesignations: rho guanine nucleotide exchange factor 40|Rho guanine nucleotide exchange factor (GEF) 40|protein SOLO
+NomenclatureSymbol: Arhgef40
+NomenclatureName: Rho guanine nucleotide exchange factor 40
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '14', 'ChrAccVer': 'NC_000080.7', 'ChrStart': '52222157', 'ChrStop': '52243703', 'ExonCount': '26'}]
+GeneWeight: 481
+Summary: Predicted to enable guanyl-nucleotide exchange factor activity. Predicted to be located in cytosol and plasma membrane. Is expressed in retina. Orthologous to human ARHGEF40 (Rho guanine nucleotide exchange factor 40). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 14
+ChrStart: 52222157
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Scube1
+Description: signal peptide, CUB domain, EGF-like 1
+Status: 0
+CurrentID: 0
+Chromosome: 15
+GeneticSource: genomic
+MapLocation: 15 39.4 cM
+OtherAliases: 7330410C13Rik, A630023E24Rik
+OtherDesignations: signal peptide, CUB and EGF-like domain-containing protein 1
+NomenclatureSymbol: Scube1
+NomenclatureName: signal peptide, CUB domain, EGF-like 1
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '15', 'ChrAccVer': 'NC_000081.7', 'ChrStart': '83609251', 'ChrStop': '83486783', 'ExonCount': '24'}]
+GeneWeight: 1458
+Summary: Predicted to enable identical protein binding activity. Acts upstream of or within positive regulation of smoothened signaling pathway. Predicted to be located in external side of plasma membrane. Predicted to be active in cell surface and extracellular space. Is expressed in several structures, including allantois; embryo ectoderm; embryo mesenchyme; forelimb bud; and genitourinary system. Orthologous to human SCUBE1 (signal peptide, CUB domain and EGF like domain containing 1). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 15
+ChrStart: 83486783
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Irf1
+Description: interferon regulatory factor 1
+Status: 0
+CurrentID: 0
+Chromosome: 11
+GeneticSource: genomic
+MapLocation: 11 32.0 cM
+OtherAliases: Irf-1
+OtherDesignations: interferon regulatory factor 1
+NomenclatureSymbol: Irf1
+NomenclatureName: interferon regulatory factor 1
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '11', 'ChrAccVer': 'NC_000077.7', 'ChrStart': '53660840', 'ChrStop': '53669199', 'ExonCount': '12'}]
+GeneWeight: 21190
+Summary: Enables DNA-binding transcription factor activity, RNA polymerase II-specific and sequence-specific DNA binding activity. Involved in several processes, including defense response to other organism; regulation of T cell activation; and regulation of gene expression. Acts upstream of or within CD8-positive, alpha-beta T cell differentiation; positive regulation of interleukin-12 production; and positive regulation of transcription by RNA polymerase II. Located in cytoplasm and nucleus. Is expressed in several structures, including early conceptus; eye; genitourinary system; and gut. Human ortholog(s) of this gene implicated in asthma; gastric adenocarcinoma; lung non-small cell carcinoma; and smallpox. Orthologous to human IRF1 (interferon regulatory factor 1). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 11
+ChrStart: 53660840
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Entpd4b
+Description: ectonucleoside triphosphate diphosphohydrolase 4B
+Status: 0
+CurrentID: 0
+Chromosome: 14
+GeneticSource: genomic
+MapLocation: 14
+OtherAliases: Gm21685
+OtherDesignations: ectonucleoside triphosphate diphosphohydrolase 4B
+NomenclatureSymbol: Entpd4b
+NomenclatureName: ectonucleoside triphosphate diphosphohydrolase 4B
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '14', 'ChrAccVer': 'NC_000080.7', 'ChrStart': '69792849', 'ChrStop': '69822388', 'ExonCount': '13'}]
+GeneWeight: 254
+Summary: Predicted to enable pyrophosphatase activity. Predicted to be involved in nucleobase-containing small molecule metabolic process. Predicted to be located in Golgi membrane and autophagosome membrane. Predicted to be integral component of Golgi membrane and integral component of autophagosome membrane. Orthologous to human ENTPD4 (ectonucleoside triphosphate diphosphohydrolase 4). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 14
+ChrStart: 69792849
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Smarcc2
+Description: SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+Status: 0
+CurrentID: 0
+Chromosome: 10
+GeneticSource: genomic
+MapLocation: 10 76.59 cM
+OtherAliases: 5930405J04Rik
+OtherDesignations: SWI/SNF complex subunit SMARCC2|BAF170|BRG1-associated factor 170|SWI/SNF complex 170 kDa subunit|SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily C member 2
+NomenclatureSymbol: Smarcc2
+NomenclatureName: SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '10', 'ChrAccVer': 'NC_000076.7', 'ChrStart': '128294822', 'ChrStop': '128326459', 'ExonCount': '29'}]
+GeneWeight: 2496
+Summary: Enables chromatin binding activity. Acts upstream of or within negative regulation of transcription by RNA polymerase II. Part of SWI/SNF complex; nBAF complex; and npBAF complex. Is expressed in cranial ganglion; genitourinary system; and inner ear. Orthologous to human SMARCC2 (SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 10
+ChrStart: 128294822
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Traf6
+Description: TNF receptor-associated factor 6
+Status: 0
+CurrentID: 0
+Chromosome: 2
+GeneticSource: genomic
+MapLocation: 2 53.9 cM
+OtherAliases: 2310003F17Rik, C630032O20Rik
+OtherDesignations: TNF receptor-associated factor 6|E3 ubiquitin-protein ligase TRAF6|RING-type E3 ubiquitin transferase TRAF6
+NomenclatureSymbol: Traf6
+NomenclatureName: TNF receptor-associated factor 6
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '2', 'ChrAccVer': 'NC_000068.8', 'ChrStart': '101508764', 'ChrStop': '101532012', 'ExonCount': '8'}]
+GeneWeight: 22270
+Summary: This gene encodes a member of the TNF receptor associated factor (TRAF) family of adaptor proteins that mediate signaling events from members of the TNF receptor and Toll/IL-1 receptor families to activate transcription factors such as NF-kappa-B and AP-1. The product of this gene is essential for perinatal and postnatal survival. Mice deficient in this protein exhibit osteopetrosis and defective in development of epidermal appendixes, normal B cell differentiation, lymph node organogenesis, interleukin-1 signaling, lipopolysaccharide signaling and neural tube closure. This protein possesses ubiquitin ligase activity. Alternate splicing of this gene results in multiple transcript variants. [provided by RefSeq, Dec 2014]
+ChrSort: 02
+ChrStart: 101508764
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: S100a11
+Description: S100 calcium binding protein A11
+Status: 0
+CurrentID: 0
+Chromosome: 3
+GeneticSource: genomic
+MapLocation: 3 40.51 cM
+OtherAliases: EMAPI, Emap1, S100a14, S100c, cal
+OtherDesignations: protein S100-A11|EMAP|S100 calcium binding protein A14|calgizzarin|calizzarin|endothelial monocyte activating polypeptide 1|endothelial monocyte-activating polypeptide|protein S100-C
+NomenclatureSymbol: S100a11
+NomenclatureName: S100 calcium binding protein A11
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '3', 'ChrAccVer': 'NC_000069.7', 'ChrStart': '93427802', 'ChrStop': '93433594', 'ExonCount': '3'}]
+GeneWeight: 1710
+Summary: Predicted to enable several functions, including S100 protein binding activity; calcium-dependent protein binding activity; and protein homodimerization activity. Predicted to be involved in positive regulation of smooth muscle cell migration. Located in cytoplasm. Is expressed in several structures, including gonad; heart and pericardium; lung; pancreas mesenchyme; and thymus. Orthologous to human S100A11 (S100 calcium binding protein A11). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 03
+ChrStart: 93427802
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Smim8
+Description: small integral membrane protein 8
+Status: 0
+CurrentID: 0
+Chromosome: 4
+GeneticSource: genomic
+MapLocation: 4 16.86 cM
+OtherAliases: 1810030N24Rik, 2810406B13Rik
+OtherDesignations: small integral membrane protein 8|UPF0708 protein C6orf162 homolog
+NomenclatureSymbol: Smim8
+NomenclatureName: small integral membrane protein 8
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '4', 'ChrAccVer': 'NC_000070.7', 'ChrStart': '34778397', 'ChrStop': '34768663', 'ExonCount': '4'}]
+GeneWeight: 492
+Summary: Predicted to be located in membrane. Predicted to be integral component of membrane. Is expressed in several structures, including adipose tissue; alimentary system; eye; genitourinary system; and nervous system. Orthologous to human SMIM8 (small integral membrane protein 8). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 04
+ChrStart: 34768663
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Fam219a
+Description: family with sequence similarity 219, member A
+Status: 0
+CurrentID: 0
+Chromosome: 4
+GeneticSource: genomic
+MapLocation: 4 21.71 cM
+OtherAliases: 2310028H24Rik
+OtherDesignations: protein FAM219A|likely ortholog of H. sapiens chromosome 9 open reading frame 25 (C9orf25)|uncharacterized protein C9orf25 homolog
+NomenclatureSymbol: Fam219a
+NomenclatureName: family with sequence similarity 219, member A
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '4', 'ChrAccVer': 'NC_000070.7', 'ChrStart': '41569537', 'ChrStop': '41517690', 'ExonCount': '7'}]
+GeneWeight: 391
+Summary: Orthologous to human FAM219A (family with sequence similarity 219 member A). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 04
+ChrStart: 41517690
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Cyp4a14
+Description: cytochrome P450, family 4, subfamily a, polypeptide 14
+Status: 0
+CurrentID: 0
+Chromosome: 4
+GeneticSource: genomic
+MapLocation: 4 53.04 cM
+OtherAliases: 
+OtherDesignations: cytochrome P450 4A14|CYPIVA14|cytochrome P450, 4a14|cytochrome P450-LA-omega 3|lauric acid hydroxylase|lauric acid omega-hydroxylase 3|long-chain fatty acid omega-monooxygenase
+NomenclatureSymbol: Cyp4a14
+NomenclatureName: cytochrome P450, family 4, subfamily a, polypeptide 14
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '4', 'ChrAccVer': 'NC_000070.7', 'ChrStart': '115353354', 'ChrStop': '115343396', 'ExonCount': '13'}]
+GeneWeight: 1868
+Summary: Predicted to enable 16-hydroxypalmitate dehydrogenase activity; arachidonic acid binding activity; and monooxygenase activity. Predicted to be involved in fatty acid metabolic process; icosanoid biosynthetic process; and kidney development. Predicted to be located in apical plasma membrane; cytoplasm; and extracellular space. Predicted to be active in intracellular membrane-bounded organelle. Is expressed in liver and metanephros. Human ortholog(s) of this gene implicated in hypertension. Orthologous to human CYP4A11 (cytochrome P450 family 4 subfamily A member 11) and CYP4A22 (cytochrome P450 family 4 subfamily A member 22). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 04
+ChrStart: 115343396
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+

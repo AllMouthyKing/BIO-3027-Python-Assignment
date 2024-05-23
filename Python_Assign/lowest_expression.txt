@@ -1,0 +1,140 @@
+Name: Ssed_0594
+Description: FAD linked oxidase domain-containing protein
+Status: 2
+CurrentID: 0
+Chromosome: 
+GeneticSource: genomic
+MapLocation: 
+OtherAliases: Ssed_0594
+OtherDesignations: 
+NomenclatureSymbol: 
+NomenclatureName: 
+NomenclatureStatus: 
+Mim: []
+GenomicInfo: [{'ChrLoc': '', 'ChrAccVer': 'NC_009831.1', 'ChrStart': '724185', 'ChrStop': '725882', 'ExonCount': '0'}]
+GeneWeight: 0
+Summary: 
+ChrSort: ~~last
+ChrStart: 999999999
+Organism: {'ScientificName': 'Shewanella sediminis HAW-EB3', 'CommonName': '', 'TaxID': '425104'}
+
+Name: Dnaaf1
+Description: dynein, axonemal assembly factor 1
+Status: 0
+CurrentID: 0
+Chromosome: 8
+GeneticSource: genomic
+MapLocation: 8 67.98 cM
+OtherAliases: 4930457P18Rik, Lrrc50, m4Bei
+OtherDesignations: dynein axonemal assembly factor 1|dynein assembly factor 1, axonemal|leucine-rich repeat-containing protein 50
+NomenclatureSymbol: Dnaaf1
+NomenclatureName: dynein, axonemal assembly factor 1
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '8', 'ChrAccVer': 'NC_000074.7', 'ChrStart': '120301973', 'ChrStop': '120325192', 'ExonCount': '12'}]
+GeneWeight: 667
+Summary: Predicted to enable dynein complex binding activity. Predicted to be involved in several processes, including cilium assembly; determination of left/right symmetry; and regulation of cilium beat frequency. Predicted to be located in cytosol; nuclear speck; and plasma membrane. Predicted to be active in axoneme. Is expressed in several structures, including genitourinary system; liver; node; nose; and spleen. Human ortholog(s) of this gene implicated in primary ciliary dyskinesia 13. Orthologous to human DNAAF1 (dynein axonemal assembly factor 1). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 08
+ChrStart: 120301973
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Noc_0951
+Description: S-adenosylmethionine decarboxylase
+Status: 2
+CurrentID: 0
+Chromosome: 
+GeneticSource: genomic
+MapLocation: 
+OtherAliases: Noc_0951
+OtherDesignations: 
+NomenclatureSymbol: 
+NomenclatureName: 
+NomenclatureStatus: 
+Mim: []
+GenomicInfo: [{'ChrLoc': '', 'ChrAccVer': 'NC_007484.1', 'ChrStart': '1050520', 'ChrStop': '1049690', 'ExonCount': '0'}]
+GeneWeight: 0
+Summary: 
+ChrSort: ~~last
+ChrStart: 999999999
+Organism: {'ScientificName': 'Nitrosococcus oceani ATCC 19707', 'CommonName': '', 'TaxID': '323261'}
+
+Name: Kash5
+Description: KASH domain containing 5
+Status: 0
+CurrentID: 0
+Chromosome: 7
+GeneticSource: genomic
+MapLocation: 7 29.17 cM
+OtherAliases: Ccdc155, Gm1434
+OtherDesignations: protein KASH5|KASH domain-containing protein 5|coiled-coil domain containing 155|coiled-coil domain-containing protein 155
+NomenclatureSymbol: Kash5
+NomenclatureName: KASH domain containing 5
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '7', 'ChrAccVer': 'NC_000073.7', 'ChrStart': '44854343', 'ChrStop': '44833042', 'ExonCount': '22'}]
+GeneWeight: 735
+Summary: Enables dynein complex binding activity and identical protein binding activity. Involved in cytoskeleton organization; spindle localization; and telomere localization. Acts upstream of or within double-strand break repair via homologous recombination; gamete generation; and homologous chromosome segregation. Located in chromosome; meiotic spindle pole; and nuclear outer membrane. Part of meiotic nuclear membrane microtubule tethering complex. Is expressed in spermatocyte. Orthologous to human KASH5 (KASH domain containing 5). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 07
+ChrStart: 44833042
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Spea_3025
+Description: metallophosphoesterase
+Status: 2
+CurrentID: 0
+Chromosome: 
+GeneticSource: genomic
+MapLocation: 
+OtherAliases: Spea_3025
+OtherDesignations: 
+NomenclatureSymbol: 
+NomenclatureName: 
+NomenclatureStatus: 
+Mim: []
+GenomicInfo: [{'ChrLoc': '', 'ChrAccVer': 'NC_009901.1', 'ChrStart': '3708843', 'ChrStop': '3709724', 'ExonCount': '0'}]
+GeneWeight: 0
+Summary: 
+ChrSort: ~~last
+ChrStart: 999999999
+Organism: {'ScientificName': 'Shewanella pealeana ATCC 700345', 'CommonName': '', 'TaxID': '398579'}
+
+Name: C2cd4d
+Description: C2 calcium-dependent domain containing 4D
+Status: 0
+CurrentID: 0
+Chromosome: 3
+GeneticSource: genomic
+MapLocation: 3 40.55 cM
+OtherAliases: Gm659
+OtherDesignations: C2 calcium-dependent domain-containing protein 4D
+NomenclatureSymbol: C2cd4d
+NomenclatureName: C2 calcium-dependent domain containing 4D
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '3', 'ChrAccVer': 'NC_000069.7', 'ChrStart': '94269719', 'ChrStop': '94271873', 'ExonCount': '2'}]
+GeneWeight: 299
+Summary: Orthologous to human C2CD4D (C2 calcium dependent domain containing 4D). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 03
+ChrStart: 94269719
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
+Name: Spata25
+Description: spermatogenesis associated 25
+Status: 0
+CurrentID: 0
+Chromosome: 2
+GeneticSource: genomic
+MapLocation: 2 85.27 cM
+OtherAliases: 1700020C07Rik, Tsg23
+OtherDesignations: spermatogenesis-associated protein 25|testis-specific gene 23 protein
+NomenclatureSymbol: Spata25
+NomenclatureName: spermatogenesis associated 25
+NomenclatureStatus: Official
+Mim: []
+GenomicInfo: [{'ChrLoc': '2', 'ChrAccVer': 'NC_000068.8', 'ChrStart': '164670453', 'ChrStop': '164669301', 'ExonCount': '2'}]
+GeneWeight: 512
+Summary: Acts upstream of or within spermatogenesis. Predicted to be located in membrane. Predicted to be integral component of membrane. Orthologous to human SPATA25 (spermatogenesis associated 25). [provided by Alliance of Genome Resources, Apr 2022]
+ChrSort: 02
+ChrStart: 164669301
+Organism: {'ScientificName': 'Mus musculus', 'CommonName': 'house mouse', 'TaxID': '10090'}
+
