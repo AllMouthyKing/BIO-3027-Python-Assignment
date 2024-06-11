@@ -18,3 +18,6 @@ Can refer to Assignment.pdf for more information
 
 
 Created on Spyder ver 5.4.3
+
+
+IMPORTANT: After re-running the code at 3 weeks post uploading, the PIL function for opening images seems to have hit an issue. Previously it would open the two png result files at the same time, now however, it only opens one, which must be exited for the second png file to open. I am unsure as to what changed in the 3 weeks and I truly cannot find a solution for this. There are no issues in the analysis, reading the raw data files and creating of the results both the pngs and textfiles, only opening of both the png files.  
